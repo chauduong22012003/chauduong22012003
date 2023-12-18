@@ -18,7 +18,7 @@ Welcome to my GitHub page! I am a passionate 💻 programmer exploring the world
 
 
 ## Languages-Framworks-Tools
-![C](https://img.icons8.com/color/48/000000/c-programming.png)  |
+![](https://img.icons8.com/color/48/000000/c-programming.png)  |
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)  |
 ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)  |
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)  |
