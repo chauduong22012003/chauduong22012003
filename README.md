@@ -10,13 +10,8 @@ Welcome to my GitHub page! I am a passionate 💻 programmer exploring the world
 - ✅ [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)): Description of your C# programming skill.
 - ✅ [Java](https://en.wikipedia.org/wiki/Java_(programming_language)): Description of your Java programming skill.
 
-## Featured Projects
 
-Below are some of the projects I have worked on:
-
-- [Project](link): Brief description of project 1 and the techniques, technologies I used.
-
-
+## Languages-Framworks-Tools
 ![C](https://img.icons8.com/color/48/000000/c-programming.png) C |
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++ |
 ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C# |
@@ -34,6 +29,16 @@ Below are some of the projects I have worked on:
 ![Sass](https://img.icons8.com/color/48/000000/sass.png) Sass |
 ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS |
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
+
+
+## Featured Projects
+
+Below are some of the projects I have worked on:
+
+- [Project](link): Brief description of project 1 and the techniques, technologies I used.
+
+
+
 
 
 
