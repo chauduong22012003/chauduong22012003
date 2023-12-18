@@ -17,6 +17,27 @@ Below are some of the projects I have worked on:
 - [Project](link): Brief description of project 1 and the techniques, technologies I used.
 
 
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+- ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
+- ![Django](https://img.icons8.com/color/48/000000/django.png) Django
+- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+- ![Sass](https://img.icons8.com/color/48/000000/sass.png) Sass
+- ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS
+- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
+
+
+
 
 
 ## Contact
