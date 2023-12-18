@@ -1,4 +1,4 @@
-# Hello! I'm [CDPT]
+# Hello! I'm CDPT
 
 ## Introduction
 
